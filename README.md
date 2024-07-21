@@ -1,4 +1,5 @@
 # am-cf-auto-speed-test
+https://github.com/ansoncloud8/am-cf-auto-speed-test
 
 这是一个自动测速CF优选IP后将IP更新至CF域名A记录的自动化脚本
 
